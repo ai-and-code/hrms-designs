@@ -1535,9 +1535,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uSsLtgPv-NO_vMa1TChe-571" value="core_department" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-220" y="1310" width="130" height="30" as="geometry">
-            <mxRectangle x="-220" y="1310" width="190" height="240" as="alternateBounds" />
+        <mxCell id="uSsLtgPv-NO_vMa1TChe-571" value="core_department" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="1310" width="190" height="240" as="geometry">
+            <mxRectangle x="-220" y="1310" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uSsLtgPv-NO_vMa1TChe-572" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="uSsLtgPv-NO_vMa1TChe-571">
@@ -1637,9 +1637,9 @@
         <mxCell id="uSsLtgPv-NO_vMa1TChe-594" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uSsLtgPv-NO_vMa1TChe-575" target="uSsLtgPv-NO_vMa1TChe-513">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uSsLtgPv-NO_vMa1TChe-595" value="securiity_role" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="-230" y="1570" width="110" height="30" as="geometry">
-            <mxRectangle x="-230" y="1570" width="200" height="200" as="alternateBounds" />
+        <mxCell id="uSsLtgPv-NO_vMa1TChe-595" value="securiity_role" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="1570" width="200" height="200" as="geometry">
+            <mxRectangle x="-230" y="1570" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uSsLtgPv-NO_vMa1TChe-596" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="uSsLtgPv-NO_vMa1TChe-595">
