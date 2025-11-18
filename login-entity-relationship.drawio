@@ -1893,6 +1893,14 @@
         <mxCell id="uSsLtgPv-NO_vMa1TChe-655" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;jumpStyle=arc;" edge="1" parent="1" source="uSsLtgPv-NO_vMa1TChe-337" target="uSsLtgPv-NO_vMa1TChe-596">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uSsLtgPv-NO_vMa1TChe-656" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;" edge="1" parent="1" source="uSsLtgPv-NO_vMa1TChe-624" target="uSsLtgPv-NO_vMa1TChe-298">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="1345" />
+              <mxPoint x="510" y="1225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
