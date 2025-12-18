@@ -6170,9 +6170,9 @@
             <mxRectangle height="30" width="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DIWH3s6U58nPCuf2XSRL-38" collapsed="1" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="hrms_payroll_period" vertex="1">
-          <mxGeometry height="30" width="150" x="3686" y="2578" as="geometry">
-            <mxRectangle height="270" width="180" x="3686" y="2578" as="alternateBounds" />
+        <mxCell id="DIWH3s6U58nPCuf2XSRL-38" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="hrms_payroll_period" vertex="1">
+          <mxGeometry height="270" width="180" x="3686" y="2578" as="geometry">
+            <mxRectangle height="30" width="150" x="3686" y="2578" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DIWH3s6U58nPCuf2XSRL-39" parent="DIWH3s6U58nPCuf2XSRL-38" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
@@ -6280,7 +6280,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DIWH3s6U58nPCuf2XSRL-63" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="hrms_payroll_salary_credit" vertex="1">
-          <mxGeometry height="330" width="184" x="3686" y="2838" as="geometry" />
+          <mxGeometry height="330" width="184" x="3685" y="2858" as="geometry" />
         </mxCell>
         <mxCell id="DIWH3s6U58nPCuf2XSRL-64" parent="DIWH3s6U58nPCuf2XSRL-63" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
           <mxGeometry height="30" width="184" y="30" as="geometry" />
